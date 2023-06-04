@@ -318,3 +318,4 @@ Note: For models that use a custom LRN layer (Alexnet), Keras expects the custom
 
 This software is licensed under GNU GPLv3. Please see the included License file. All external libraries, if modified, will be mentioned below explicitly.
 # chore(init): initialize project structure
+# docs(readme): add project documentation and setup guide
